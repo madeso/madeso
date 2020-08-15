@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello
+I am Gustav Jansson and I currently work for [strusoft]() in Malmö Sweden, where I maintain and develop software written in Java EE, C#/WPF and C++/MFC.
+
+My current main focus are my game engine euphoria, my tiny scriping language fel and my c++ json library.
+[![euphoria card](https://github-readme-stats.vercel.app/api/pin/?username=madeso&repo=euphoria)](https://github.com/madeso/euphoria) [![fel card](https://github-readme-stats.vercel.app/api/pin/?username=madeso&repo=fel)](https://github.com/madeso/fel) [![json card](https://github-readme-stats.vercel.app/api/pin/?username=madeso&repo=json)](https://github.com/madeso/json)
+
+I'm currently trying to find the time to learn more about UX/UI, android development and 3d rendering.
+
+![madeso](https://github-readme-stats.vercel.app/api?username=madeso&show_icons=true")
 
 <!--
 **madeso/madeso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
