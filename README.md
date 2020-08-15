@@ -1,9 +1,18 @@
 ### Hello
-My name is Gustav Jansson and I currently work for [strusoft](https://strusoft.com/) in [Malmö Sweden](https://en.wikipedia.org/wiki/Malm%C3%B6), where I maintain and develop software written in Java EE, C#/WPF and C++/MFC/Qt.
+My name is Gustav Jansson and I currently work for [strusoft](https://strusoft.com/) in [Malmö Sweden](https://en.wikipedia.org/wiki/Malm%C3%B6), where I maintain and develop software written in
+* Java EE, C and JNI
+* C#, C++.net and WPF
+* C++, MFC and Qt.
 
-My current main focus are my game engine [euphoria](https://github.com/madeso/euphoria), my tiny scriping language [fel](https://github.com/madeso/fel) and my c++ json library [json](https://github.com/madeso/json).
+My current main focuses are divided between
+* my "game engine" project [euphoria](https://github.com/madeso/euphoria)
+* my tiny scriping language [fel](https://github.com/madeso/fel)
+* my c++ json library [json](https://github.com/madeso/json).
 
-I'm currently trying to find the time to learn more about UX/UI, android development and 3d rendering.
+I'm currently trying to find the time to learn more about
+- UX/UI
+- android development
+- 3d rendering.
 
 ![madeso](https://github-readme-stats.vercel.app/api?username=madeso&show_icons=true")
 
