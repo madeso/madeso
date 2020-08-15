@@ -14,9 +14,10 @@ I'm currently trying to find the time to learn more about:
 - Creating and rendering 3d worlds
 - Making my UI look less 'programmer made'
 
+<!--
+status thingy
 ![madeso](https://github-readme-stats.vercel.app/api?username=madeso&show_icons=true")
 
-<!--
 **madeso/madeso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
