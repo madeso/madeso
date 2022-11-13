@@ -15,8 +15,6 @@ I'm currently trying to find the time to learn more about:
 - Making my UI look less 'programmer made'
 
 <!--
-status thingy
-![madeso](https://github-readme-stats.vercel.app/api?username=madeso&show_icons=true")
 
 **madeso/madeso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,7 +25,11 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![madeso](https://github-readme-stats.vercel.app/api?username=madeso&show_icons=true")
+
+- Pronouns: He/Him
+- How to reach me: <a rel="me" href="https://mastodon.gamedev.place/@madeso">Mastodon</a>
+
